@@ -1,0 +1,9 @@
+I:\Ações\sistema\cashMiner\sistema\cashMiner\Toro1\bin\x86\Debug\Toro1.dll
+I:\Ações\sistema\cashMiner\sistema\cashMiner\Toro1\bin\x86\Debug\Toro1.pdb
+I:\Ações\sistema\cashMiner\sistema\cashMiner\Toro1\bin\x86\Debug\PlugInManager.dll
+I:\Ações\sistema\cashMiner\sistema\cashMiner\Toro1\bin\x86\Debug\Strategy.dll
+I:\Ações\sistema\cashMiner\sistema\cashMiner\Toro1\bin\x86\Debug\PlugInManager.pdb
+I:\Ações\sistema\cashMiner\sistema\cashMiner\Toro1\bin\x86\Debug\Strategy.pdb
+I:\Ações\sistema\cashMiner\sistema\cashMiner\Toro1\obj\x86\Debug\Toro1.csprojResolveAssemblyReference.cache
+I:\Ações\sistema\cashMiner\sistema\cashMiner\Toro1\obj\x86\Debug\Toro1.dll
+I:\Ações\sistema\cashMiner\sistema\cashMiner\Toro1\obj\x86\Debug\Toro1.pdb

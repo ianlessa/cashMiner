@@ -1,0 +1,6 @@
+I:\Ações\sistema\cashMiner\sistema\cashMiner\DB\bin\Debug\DB.dll
+I:\Ações\sistema\cashMiner\sistema\cashMiner\DB\bin\Debug\DB.pdb
+I:\Ações\sistema\cashMiner\sistema\cashMiner\DB\bin\Debug\MySql.Data.dll
+I:\Ações\sistema\cashMiner\sistema\cashMiner\DB\bin\Debug\MySql.Data.xml
+I:\Ações\sistema\cashMiner\sistema\cashMiner\DB\obj\Debug\DB.dll
+I:\Ações\sistema\cashMiner\sistema\cashMiner\DB\obj\Debug\DB.pdb

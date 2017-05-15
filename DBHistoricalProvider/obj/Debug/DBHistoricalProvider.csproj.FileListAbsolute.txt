@@ -1,0 +1,15 @@
+I:\Ações\sistema\cashMiner\sistema\cashMiner\DBHistoricalProvider\bin\Debug\DBHistoricalProvider.dll
+I:\Ações\sistema\cashMiner\sistema\cashMiner\DBHistoricalProvider\bin\Debug\DBHistoricalProvider.pdb
+I:\Ações\sistema\cashMiner\sistema\cashMiner\DBHistoricalProvider\bin\Debug\Candles.dll
+I:\Ações\sistema\cashMiner\sistema\cashMiner\DBHistoricalProvider\bin\Debug\DataProvider.dll
+I:\Ações\sistema\cashMiner\sistema\cashMiner\DBHistoricalProvider\bin\Debug\DB.dll
+I:\Ações\sistema\cashMiner\sistema\cashMiner\DBHistoricalProvider\bin\Debug\PlugInManager.dll
+I:\Ações\sistema\cashMiner\sistema\cashMiner\DBHistoricalProvider\bin\Debug\MySql.Data.dll
+I:\Ações\sistema\cashMiner\sistema\cashMiner\DBHistoricalProvider\bin\Debug\Candles.pdb
+I:\Ações\sistema\cashMiner\sistema\cashMiner\DBHistoricalProvider\bin\Debug\DataProvider.pdb
+I:\Ações\sistema\cashMiner\sistema\cashMiner\DBHistoricalProvider\bin\Debug\DB.pdb
+I:\Ações\sistema\cashMiner\sistema\cashMiner\DBHistoricalProvider\bin\Debug\PlugInManager.pdb
+I:\Ações\sistema\cashMiner\sistema\cashMiner\DBHistoricalProvider\bin\Debug\MySql.Data.xml
+I:\Ações\sistema\cashMiner\sistema\cashMiner\DBHistoricalProvider\obj\Debug\DBHistoricalProvider.csprojResolveAssemblyReference.cache
+I:\Ações\sistema\cashMiner\sistema\cashMiner\DBHistoricalProvider\obj\Debug\DBHistoricalProvider.dll
+I:\Ações\sistema\cashMiner\sistema\cashMiner\DBHistoricalProvider\obj\Debug\DBHistoricalProvider.pdb

@@ -1,0 +1,15 @@
+I:\Ações\sistema\cashMiner\sistema\cashMiner\GoogleFinance\bin\x64\Debug\GoogleFinance.dll
+I:\Ações\sistema\cashMiner\sistema\cashMiner\GoogleFinance\bin\x64\Debug\GoogleFinance.pdb
+I:\Ações\sistema\cashMiner\sistema\cashMiner\GoogleFinance\bin\x64\Debug\Candles.dll
+I:\Ações\sistema\cashMiner\sistema\cashMiner\GoogleFinance\bin\x64\Debug\DataProvider.dll
+I:\Ações\sistema\cashMiner\sistema\cashMiner\GoogleFinance\bin\x64\Debug\PlugInManager.dll
+I:\Ações\sistema\cashMiner\sistema\cashMiner\GoogleFinance\bin\x64\Debug\DB.dll
+I:\Ações\sistema\cashMiner\sistema\cashMiner\GoogleFinance\bin\x64\Debug\MySql.Data.dll
+I:\Ações\sistema\cashMiner\sistema\cashMiner\GoogleFinance\bin\x64\Debug\Candles.pdb
+I:\Ações\sistema\cashMiner\sistema\cashMiner\GoogleFinance\bin\x64\Debug\DataProvider.pdb
+I:\Ações\sistema\cashMiner\sistema\cashMiner\GoogleFinance\bin\x64\Debug\PlugInManager.pdb
+I:\Ações\sistema\cashMiner\sistema\cashMiner\GoogleFinance\bin\x64\Debug\DB.pdb
+I:\Ações\sistema\cashMiner\sistema\cashMiner\GoogleFinance\bin\x64\Debug\MySql.Data.xml
+I:\Ações\sistema\cashMiner\sistema\cashMiner\GoogleFinance\obj\x64\Debug\GoogleFinance.csprojResolveAssemblyReference.cache
+I:\Ações\sistema\cashMiner\sistema\cashMiner\GoogleFinance\obj\x64\Debug\GoogleFinance.dll
+I:\Ações\sistema\cashMiner\sistema\cashMiner\GoogleFinance\obj\x64\Debug\GoogleFinance.pdb

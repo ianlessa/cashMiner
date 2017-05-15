@@ -1,0 +1,13 @@
+I:\Ações\sistema\cashMiner\sistema\cashMiner\DataProvider\bin\x86\Debug\DataProvider.dll
+I:\Ações\sistema\cashMiner\sistema\cashMiner\DataProvider\bin\x86\Debug\DataProvider.pdb
+I:\Ações\sistema\cashMiner\sistema\cashMiner\DataProvider\bin\x86\Debug\Candles.dll
+I:\Ações\sistema\cashMiner\sistema\cashMiner\DataProvider\bin\x86\Debug\PlugInManager.dll
+I:\Ações\sistema\cashMiner\sistema\cashMiner\DataProvider\bin\x86\Debug\DB.dll
+I:\Ações\sistema\cashMiner\sistema\cashMiner\DataProvider\bin\x86\Debug\MySql.Data.dll
+I:\Ações\sistema\cashMiner\sistema\cashMiner\DataProvider\bin\x86\Debug\Candles.pdb
+I:\Ações\sistema\cashMiner\sistema\cashMiner\DataProvider\bin\x86\Debug\PlugInManager.pdb
+I:\Ações\sistema\cashMiner\sistema\cashMiner\DataProvider\bin\x86\Debug\DB.pdb
+I:\Ações\sistema\cashMiner\sistema\cashMiner\DataProvider\bin\x86\Debug\MySql.Data.xml
+I:\Ações\sistema\cashMiner\sistema\cashMiner\DataProvider\obj\x86\Debug\DataProviders.csprojResolveAssemblyReference.cache
+I:\Ações\sistema\cashMiner\sistema\cashMiner\DataProvider\obj\x86\Debug\DataProvider.dll
+I:\Ações\sistema\cashMiner\sistema\cashMiner\DataProvider\obj\x86\Debug\DataProvider.pdb

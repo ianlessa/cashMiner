@@ -1,0 +1,13 @@
+I:\Ações\sistema\cashMiner\sistema\cashMiner\Strategy\bin\Debug\Strategy.dll
+I:\Ações\sistema\cashMiner\sistema\cashMiner\Strategy\bin\Debug\Strategy.pdb
+I:\Ações\sistema\cashMiner\sistema\cashMiner\Strategy\obj\Debug\Strategy.dll
+I:\Ações\sistema\cashMiner\sistema\cashMiner\Strategy\obj\Debug\Strategy.pdb
+I:\Ações\sistema\cashMiner\sistema\cashMiner\Strategy\obj\Debug\Strategy.csprojResolveAssemblyReference.cache
+I:\Ações\sistema\cashMiner\sistema\cashMiner\Strategy\bin\Debug\Candles.dll
+I:\Ações\sistema\cashMiner\sistema\cashMiner\Strategy\bin\Debug\Candles.pdb
+I:\Ações\sistema\cashMiner\sistema\cashMiner\Strategy\bin\Debug\DB.dll
+I:\Ações\sistema\cashMiner\sistema\cashMiner\Strategy\bin\Debug\MySql.Data.dll
+I:\Ações\sistema\cashMiner\sistema\cashMiner\Strategy\bin\Debug\DB.pdb
+I:\Ações\sistema\cashMiner\sistema\cashMiner\Strategy\bin\Debug\MySql.Data.xml
+I:\Ações\sistema\cashMiner\sistema\cashMiner\Strategy\bin\Debug\PlugInManager.dll
+I:\Ações\sistema\cashMiner\sistema\cashMiner\Strategy\bin\Debug\PlugInManager.pdb

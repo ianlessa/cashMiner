@@ -1,0 +1,9 @@
+I:\Ações\sistema\cashMiner\sistema\cashMiner\TestStrategy\bin\x86\Debug\TestStrategy.dll
+I:\Ações\sistema\cashMiner\sistema\cashMiner\TestStrategy\bin\x86\Debug\TestStrategy.pdb
+I:\Ações\sistema\cashMiner\sistema\cashMiner\TestStrategy\bin\x86\Debug\PlugInManager.dll
+I:\Ações\sistema\cashMiner\sistema\cashMiner\TestStrategy\bin\x86\Debug\Strategy.dll
+I:\Ações\sistema\cashMiner\sistema\cashMiner\TestStrategy\bin\x86\Debug\PlugInManager.pdb
+I:\Ações\sistema\cashMiner\sistema\cashMiner\TestStrategy\bin\x86\Debug\Strategy.pdb
+I:\Ações\sistema\cashMiner\sistema\cashMiner\TestStrategy\obj\x86\Debug\TestStrategy.csprojResolveAssemblyReference.cache
+I:\Ações\sistema\cashMiner\sistema\cashMiner\TestStrategy\obj\x86\Debug\TestStrategy.dll
+I:\Ações\sistema\cashMiner\sistema\cashMiner\TestStrategy\obj\x86\Debug\TestStrategy.pdb

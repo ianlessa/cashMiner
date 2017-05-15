@@ -1,0 +1,4 @@
+I:\Ações\sistema\cashMiner\sistema\cashMiner\PlugInManager\bin\x86\Debug\PlugInManager.dll
+I:\Ações\sistema\cashMiner\sistema\cashMiner\PlugInManager\bin\x86\Debug\PlugInManager.pdb
+I:\Ações\sistema\cashMiner\sistema\cashMiner\PlugInManager\obj\x86\Debug\PlugInManager.dll
+I:\Ações\sistema\cashMiner\sistema\cashMiner\PlugInManager\obj\x86\Debug\PlugInManager.pdb

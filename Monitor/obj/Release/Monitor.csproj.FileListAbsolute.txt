@@ -1,0 +1,11 @@
+I:\Ações\sistema\cashMiner\sistema\cashMiner\Monitor\bin\Release\Monitor.exe.config
+I:\Ações\sistema\cashMiner\sistema\cashMiner\Monitor\bin\Release\Monitor.exe
+I:\Ações\sistema\cashMiner\sistema\cashMiner\Monitor\bin\Release\Monitor.pdb
+I:\Ações\sistema\cashMiner\sistema\cashMiner\Monitor\bin\Release\MySql.Data.dll
+I:\Ações\sistema\cashMiner\sistema\cashMiner\Monitor\bin\Release\MySql.Data.xml
+I:\Ações\sistema\cashMiner\sistema\cashMiner\Monitor\obj\Release\Monitor.MainForm.resources
+I:\Ações\sistema\cashMiner\sistema\cashMiner\Monitor\obj\Release\Monitor.Properties.Resources.resources
+I:\Ações\sistema\cashMiner\sistema\cashMiner\Monitor\obj\Release\Monitor.RTDLogin.resources
+I:\Ações\sistema\cashMiner\sistema\cashMiner\Monitor\obj\Release\Monitor.csproj.GenerateResource.Cache
+I:\Ações\sistema\cashMiner\sistema\cashMiner\Monitor\obj\Release\Monitor.exe
+I:\Ações\sistema\cashMiner\sistema\cashMiner\Monitor\obj\Release\Monitor.pdb

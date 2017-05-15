@@ -1,0 +1,7 @@
+I:\Ações\sistema\cashMiner\sistema\cashMiner\DB\bin\x86\Debug\DB.dll
+I:\Ações\sistema\cashMiner\sistema\cashMiner\DB\bin\x86\Debug\DB.pdb
+I:\Ações\sistema\cashMiner\sistema\cashMiner\DB\bin\x86\Debug\MySql.Data.dll
+I:\Ações\sistema\cashMiner\sistema\cashMiner\DB\bin\x86\Debug\MySql.Data.xml
+I:\Ações\sistema\cashMiner\sistema\cashMiner\DB\obj\x86\Debug\DB.csprojResolveAssemblyReference.cache
+I:\Ações\sistema\cashMiner\sistema\cashMiner\DB\obj\x86\Debug\DB.dll
+I:\Ações\sistema\cashMiner\sistema\cashMiner\DB\obj\x86\Debug\DB.pdb

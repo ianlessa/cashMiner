@@ -1,0 +1,5 @@
+I:\Ações\sistema\cashMiner\sistema\cashMiner\PlugInManager\bin\x64\Debug\PlugInManager.dll
+I:\Ações\sistema\cashMiner\sistema\cashMiner\PlugInManager\bin\x64\Debug\PlugInManager.pdb
+I:\Ações\sistema\cashMiner\sistema\cashMiner\PlugInManager\obj\x64\Debug\PlugIns.csprojResolveAssemblyReference.cache
+I:\Ações\sistema\cashMiner\sistema\cashMiner\PlugInManager\obj\x64\Debug\PlugInManager.dll
+I:\Ações\sistema\cashMiner\sistema\cashMiner\PlugInManager\obj\x64\Debug\PlugInManager.pdb
